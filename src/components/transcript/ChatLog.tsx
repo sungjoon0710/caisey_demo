@@ -1,7 +1,7 @@
 "use client"
 
 import React, { useState } from 'react';
-import { Message } from './types';
+import { Message } from '../../types';
 import { Button } from '../ui/button';
 import { formatRole } from '@/lib/formatRole';
 
