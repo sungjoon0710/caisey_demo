@@ -1,0 +1,34 @@
+{
+    "session_id": "debate_prep_22336",
+    "assignment_id": "netflix_strategy",
+    "timestamp": "2025-04-03T09:15:00Z",
+    "student_id": "kh8742@columbia.edu",
+    "student_name": "Kevin Huang",
+    "messages": [
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "text": "Kevin, let’s debate Netflix’s balance between originals and licensed content. What’s your stance?"
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "text": "Netflix originals are an asset for international growth. Local originals in Korea, Spain, and India show that originals help tap into global markets better than relying on U.S. licensed shows."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "text": "True, but scaling international originals adds complexity and cost. Do you think the ROI justifies spreading resources that widely?"
+          }
+        ]
+      }
+    ]
+}
+  

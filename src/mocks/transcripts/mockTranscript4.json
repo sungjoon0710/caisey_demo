@@ -1,0 +1,34 @@
+{
+    "session_id": "debate_prep_13579",
+    "assignment_id": "brooklyn_brewery",
+    "timestamp": "2025-03-18T13:00:00Z",
+    "student_id": "kh8742@columbia.edu",
+    "student_name": "Kevin Huang",
+    "messages": [
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "text": "Kevin, let’s dive in. What’s your opening argument for why Brooklyn Brewery should emphasize hard seltzer?"
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "text": "The hard seltzer market still has growth potential internationally. Brooklyn can leverage its brand reputation to expand abroad."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "text": "That’s a fresh angle. But international expansion brings distribution challenges. How would Brooklyn overcome supply chain and regulatory hurdles?"
+          }
+        ]
+      }
+    ]
+}
+  

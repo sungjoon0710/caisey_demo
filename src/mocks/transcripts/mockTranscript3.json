@@ -1,0 +1,34 @@
+{
+    "session_id": "debate_prep_24680",
+    "assignment_id": "brooklyn_brewery",
+    "timestamp": "2025-03-17T09:45:00Z",
+    "student_id": "mm3321@columbia.edu",
+    "student_name": "Maria Martinez",
+    "messages": [
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "text": "Hi Maria! I see you’ve chosen hard seltzer as the priority for Brooklyn Brewery. Could you explain your reasoning?"
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "text": "Brooklyn Brewery can capture a younger audience by innovating in the seltzer space. Plus, the margins are attractive if executed well."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "text": "Interesting. But entering an already competitive field means heavy marketing costs. How would you justify that investment?"
+          }
+        ]
+      }
+    ]
+}
+  

@@ -1,0 +1,275 @@
+[
+    {
+        "session_id": "debate_prep_12345",
+        "assignment_id": "brooklyn_brewery",
+        "timestamp": "2025-03-15T14:30:00Z",
+        "student_id": "sp4050@columbia.edu",
+        "student_name": "Sungjoon Park",
+        "messages": [
+          {
+            "role": "assistant",
+            "content": [
+              {
+                "text": "Hey there! I see you've chosen shifting to hard seltzer as the strategy for Brooklyn Brewery to prioritize. Could you start off by giving me a brief argument on why you think that's the best approach? I'd love to hear your thoughts!"
+              }
+            ]
+          },
+          {
+            "role": "user",
+            "content": [
+              {
+                "text": "I think Brooklyn Brewery should shift to hard seltzer because beer sales are falling tremendously, no one's drinking beer anymore, the craft beer craze is over and hard seltzer is becoming much more prevalent especially among younger generations. Look at the sales of High Noon for example."
+              }
+            ]
+          },
+          {
+            "role": "assistant",
+            "content": [
+              {
+                "text": "Got it! You’re arguing that shifting to hard seltzer makes sense because beer demand is declining, and seltzer is growing, especially with younger consumers.\n\nI’ll take the position that they should focus on high-quality beer instead.\n\nNow, let me challenge your stance: While hard seltzer is growing, it's also becoming extremely crowded. Big players like White Claw and Truly dominate, and even Bud Light jumped in. How would Brooklyn differentiate and protect its margins in such a crowded market, especially when they have a strong, established identity in craft beer?\n\nWhat’s your counter-argument to that?"
+              }
+            ]
+          },
+          {
+            "role": "user",
+            "type": "message",
+            "content": [
+              {
+                "text": "I think Brooklyn has a brand advantage. I think White Claw is great, it had a head start, but there's something distinct about Brooklyn and the brand."
+              }
+            ]
+          }
+        ]
+    },
+    {
+        "session_id": "debate_prep_67890",
+        "assignment_id": "brooklyn_brewery",
+        "timestamp": "2025-03-16T10:15:00Z",
+        "student_id": "aj2173@columbia.edu",
+        "student_name": "Alex Johnson",
+        "messages": [
+          {
+            "role": "assistant",
+            "content": [
+              {
+                "text": "Welcome, Alex! Let's get started. Why do you believe Brooklyn Brewery should prioritize hard seltzer?"
+              }
+            ]
+          },
+          {
+            "role": "user",
+            "content": [
+              {
+                "text": "I think it aligns with shifting consumer preferences. Younger demographics are seeking lighter, lower-calorie options, and seltzers fill that niche."
+              }
+            ]
+          },
+          {
+            "role": "assistant",
+            "content": [
+              {
+                "text": "Good point. But some argue seltzers are just a trend that might fade quickly. How would Brooklyn ensure this isn’t just chasing short-term hype?"
+              }
+            ]
+          }
+        ]
+    },
+    {
+        "session_id": "debate_prep_24680",
+        "assignment_id": "brooklyn_brewery",
+        "timestamp": "2025-03-17T09:45:00Z",
+        "student_id": "mm3321@columbia.edu",
+        "student_name": "Maria Martinez",
+        "messages": [
+          {
+            "role": "assistant",
+            "content": [
+              {
+                "text": "Hi Maria! I see you’ve chosen hard seltzer as the priority for Brooklyn Brewery. Could you explain your reasoning?"
+              }
+            ]
+          },
+          {
+            "role": "user",
+            "content": [
+              {
+                "text": "Brooklyn Brewery can capture a younger audience by innovating in the seltzer space. Plus, the margins are attractive if executed well."
+              }
+            ]
+          },
+          {
+            "role": "assistant",
+            "content": [
+              {
+                "text": "Interesting. But entering an already competitive field means heavy marketing costs. How would you justify that investment?"
+              }
+            ]
+          }
+        ]
+    },
+    {
+        "session_id": "debate_prep_13579",
+        "assignment_id": "brooklyn_brewery",
+        "timestamp": "2025-03-18T13:00:00Z",
+        "student_id": "kh8742@columbia.edu",
+        "student_name": "Kevin Huang",
+        "messages": [
+          {
+            "role": "assistant",
+            "content": [
+              {
+                "text": "Kevin, let’s dive in. What’s your opening argument for why Brooklyn Brewery should emphasize hard seltzer?"
+              }
+            ]
+          },
+          {
+            "role": "user",
+            "content": [
+              {
+                "text": "The hard seltzer market still has growth potential internationally. Brooklyn can leverage its brand reputation to expand abroad."
+              }
+            ]
+          },
+          {
+            "role": "assistant",
+            "content": [
+              {
+                "text": "That’s a fresh angle. But international expansion brings distribution challenges. How would Brooklyn overcome supply chain and regulatory hurdles?"
+              }
+            ]
+          }
+        ]
+    },
+    {
+        "session_id": "debate_prep_22334",
+        "assignment_id": "netflix_strategy",
+        "timestamp": "2025-04-01T11:00:00Z",
+        "student_id": "aj2173@columbia.edu",
+        "student_name": "Alex Johnson",
+        "messages": [
+          {
+            "role": "assistant",
+            "content": [
+              {
+                "text": "Alex, you’ve picked Netflix’s strategy around content sourcing. Do you believe Netflix should prioritize original shows or keep investing heavily in licensed third-party titles?"
+              }
+            ]
+          },
+          {
+            "role": "user",
+            "content": [
+              {
+                "text": "Originals give Netflix brand identity and reduce dependence on outside studios. Stranger Things or Squid Game are examples where originals really defined the platform."
+              }
+            ]
+          },
+          {
+            "role": "assistant",
+            "content": [
+              {
+                "text": "Fair — but originals are costly and risky. Third-party licensing fills gaps quickly and provides proven hits. How would you justify the heavy spend on originals long term?"
+              }
+            ]
+          }
+        ]
+    },
+    {
+        "session_id": "debate_prep_22335",
+        "assignment_id": "netflix_strategy",
+        "timestamp": "2025-04-02T14:30:00Z",
+        "student_id": "mm3321@columbia.edu",
+        "student_name": "Maria Martinez",
+        "messages": [
+          {
+            "role": "assistant",
+            "content": [
+              {
+                "text": "Maria, you’re analyzing Netflix’s content approach. Why might Netflix double down on original content versus leaning more on licensed material?"
+              }
+            ]
+          },
+          {
+            "role": "user",
+            "content": [
+              {
+                "text": "Originals build exclusivity. If viewers can only find a show on Netflix, it reduces churn. Licensed shows often leave when contracts expire, creating instability."
+              }
+            ]
+          },
+          {
+            "role": "assistant",
+            "content": [
+              {
+                "text": "Good point. But licensed titles like Friends or The Office once drove huge engagement. Without those, Netflix risks losing casual viewers. How would they mitigate that?"
+              }
+            ]
+          }
+        ]
+    },
+    {
+        "session_id": "debate_prep_22336",
+        "assignment_id": "netflix_strategy",
+        "timestamp": "2025-04-03T09:15:00Z",
+        "student_id": "kh8742@columbia.edu",
+        "student_name": "Kevin Huang",
+        "messages": [
+          {
+            "role": "assistant",
+            "content": [
+              {
+                "text": "Kevin, let’s debate Netflix’s balance between originals and licensed content. What’s your stance?"
+              }
+            ]
+          },
+          {
+            "role": "user",
+            "content": [
+              {
+                "text": "Netflix originals are an asset for international growth. Local originals in Korea, Spain, and India show that originals help tap into global markets better than relying on U.S. licensed shows."
+              }
+            ]
+          },
+          {
+            "role": "assistant",
+            "content": [
+              {
+                "text": "True, but scaling international originals adds complexity and cost. Do you think the ROI justifies spreading resources that widely?"
+              }
+            ]
+          }
+        ]
+    },
+    {
+        "session_id": "debate_prep_22337",
+        "assignment_id": "netflix_strategy",
+        "timestamp": "2025-04-04T16:45:00Z",
+        "student_id": "sp4050@columbia.edu",
+        "student_name": "Sungjoon Park",
+        "messages": [
+          {
+            "role": "assistant",
+            "content": [
+              {
+                "text": "Sungjoon, should Netflix’s strategy lean on blockbuster originals or diversify with a mix of licensed classics? What’s your argument?"
+              }
+            ]
+          },
+          {
+            "role": "user",
+            "content": [
+              {
+                "text": "I’d argue Netflix must keep both. Originals drive headlines and prestige, but licensed content provides the comfort shows people binge daily. Without that balance, churn rises."
+              }
+            ]
+          },
+          {
+            "role": "assistant",
+            "content": [
+              {
+                "text": "Interesting — so you’re suggesting originals attract new subscribers, but licensed titles retain them. How would you allocate budget between the two?"
+              }
+            ]
+          }
+        ]
+    }            
+]
