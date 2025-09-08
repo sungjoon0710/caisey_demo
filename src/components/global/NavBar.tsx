@@ -6,12 +6,10 @@ import Image from "next/image"
 import {
     NavigationMenu,
     NavigationMenuContent,
-    NavigationMenuIndicator,
     NavigationMenuItem,
     NavigationMenuLink,
     NavigationMenuList,
-    NavigationMenuTrigger,
-    NavigationMenuViewport,
+    NavigationMenuTrigger
 } from "@/components/ui/navigation-menu"
 
 export default function NavBar({  }) {
@@ -19,7 +17,7 @@ export default function NavBar({  }) {
     const handleReturnHome = () => {
         window.location.href = "/";
     }
-    
+
     return(
         <div className="flex flex-row">
             <Image src="/caisey_logo.png" alt="Caisey Logo" width={200} height={50} onClick={handleReturnHome}/>

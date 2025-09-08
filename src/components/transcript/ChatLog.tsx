@@ -20,12 +20,10 @@ export default function ChatLog({ messages }: ChatLogProps) {
         <div className="flex flex-col p-5">
             <ul>
             {expanded&& messages.map((message, index) => (
-                <div>
-                    <li key={index} className={`${message.role === "user" ? "my-4 text-right rounded-md bg-gray-900 px-4 py-3 text-white shadow-lg dark:bg-gray-800" : "text-left rounded-md bg-gray-100 px-4 py-3 text-gray-900 shadow-lg dark:bg-gray-950 dark:text-gray-50"}`}>
-                        <strong>{formatRole(message.role)}</strong>
-                        <p>{message.content[0].text}</p>
-                    </li>
-                </div>
+                <li key={index} className={`${message.role === "user" ? "my-4 text-right rounded-md bg-gray-900 px-4 py-3 text-white shadow-lg dark:bg-gray-800" : "text-left rounded-md bg-gray-100 px-4 py-3 text-gray-900 shadow-lg dark:bg-gray-950 dark:text-gray-50"}`}>
+                    <strong>{formatRole(message.role)}</strong>
+                    <p>{message.content[0].text}</p>
+                </li>
             ))}
             </ul>
             {expanded&& <Button onClick={handleExpandedToggle}>See Less</Button>}

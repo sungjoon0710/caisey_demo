@@ -10,8 +10,7 @@ interface ChatTranscriptViewProps {
 
 const ChatTranscriptView: FC<ChatTranscriptViewProps> = ({transcripts}) => {
 
-    //verify each transcript for essential fields
-    console.log(transcripts);
+    //TODO: verify each transcript for essential fields
 
     return (
         <div>

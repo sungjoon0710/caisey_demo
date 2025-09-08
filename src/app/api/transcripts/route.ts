@@ -12,8 +12,6 @@ export async function GET(req: Request) {
   
     if (assignment_id) result = result.filter(t => t.assignment_id === assignment_id);
     if (student_id)    result = result.filter(t => t.student_id === student_id);
-
-    console.log(`Filtered transcripts: assignment_id=${assignment_id} count=${result.length}`);
   
     // sort newest first
     result = result.toSorted((a, b) => +new Date(b.timestamp) - +new Date(a.timestamp));
