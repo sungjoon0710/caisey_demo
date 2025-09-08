@@ -1,14 +1,15 @@
 "use client"
 
 import React, { FC, useState } from 'react';
-import { Card, CardHeader, CardAction, CardContent, CardDescription } from '../ui/card';
+import { Card, CardHeader, CardAction } from '../ui/card';
 import { Button } from '../ui/button';
 import ChatLog from './ChatLog';
 import { formatAssignmentId } from '../../lib/formatAssignmentId';
 import { formatTimestamp } from '@/lib/formatTimestamp';
+import { Transcript } from '../../types';
 
 interface ChatTranscriptProps {
-  transcript: any;
+  transcript: Transcript;
 }
 
 const ChatTranscript: FC<ChatTranscriptProps> = ({ transcript }) => {
