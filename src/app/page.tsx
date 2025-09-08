@@ -1,10 +1,9 @@
-import ChatTranscript from "@/components/transcript/ChatTranscript";
-import transcripts from "@/mocks//brooklyn_brewery/mockTranscript1.json";
+import ChatTranscriptView from "@/components/transcript/ChatTranscriptView";
 
 export default function Home() {
   return (
     <div>
-      <ChatTranscript transcript={transcripts} />
+      <ChatTranscriptView assignment_id="brooklyn_brewery"/>
     </div>
   );
 }

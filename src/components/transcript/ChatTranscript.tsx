@@ -6,8 +6,6 @@ import { Button } from '../ui/button';
 import ChatLog from './ChatLog';
 import { formatAssignmentId } from '../../lib/formatAssignmentId';
 import { formatTimestamp } from '@/lib/formatTimestamp';
-import { randomInt } from 'crypto';
-
 
 interface ChatTranscriptProps {
   transcript: any;
@@ -37,6 +35,9 @@ const ChatTranscript: FC<ChatTranscriptProps> = ({ transcript }) => {
         setScore(Math.floor(Math.random() * (100 - 80 + 1)) + 80);
     }
 
+    const handleReturnHome = () => {
+        window.location.href = '/';
+    }   
 
     return (
         <div>
@@ -53,7 +54,8 @@ const ChatTranscript: FC<ChatTranscriptProps> = ({ transcript }) => {
                     {Timestamp}
                 </CardAction>
 
-                <CardAction className="bg-indigo-700 rounded-sm p-5">
+                <CardAction className="rounded-sm">
+                    <strong>Chat Log: <br/></strong>
                     <ChatLog messages = {transcript.messages}/>
                 </CardAction>
 
@@ -61,9 +63,16 @@ const ChatTranscript: FC<ChatTranscriptProps> = ({ transcript }) => {
                     <strong>Overall Assessment: <br/></strong>
                     {score}/100 pts
                 </CardAction>
-                <Button onClick={handleReevaluationRequest}>
-                    Request Re-evaluation
-                </Button>
+
+                <div className="flex flex-row gap-3">
+                    <Button onClick={handleReevaluationRequest}>
+                        Request Re-evaluation
+                    </Button>
+                    <Button onClick={handleReturnHome}>
+                        Return Home
+                    </Button>
+                </div>
+                
 
             </Card>
         </div>
