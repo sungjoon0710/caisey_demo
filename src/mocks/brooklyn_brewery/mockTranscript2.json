@@ -1,0 +1,34 @@
+{
+    "session_id": "debate_prep_67890",
+    "assignment_id": "brooklyn_brewery",
+    "timestamp": "2024-03-16T10:15:00Z",
+    "student_id": "aj2173@columbia.edu",
+    "student_name": "Alex Johnson",
+    "messages": [
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "text": "Welcome, Alex! Let's get started. Why do you believe Brooklyn Brewery should prioritize hard seltzer?"
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "text": "I think it aligns with shifting consumer preferences. Younger demographics are seeking lighter, lower-calorie options, and seltzers fill that niche."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "text": "Good point. But some argue seltzers are just a trend that might fade quickly. How would Brooklyn ensure this isn’t just chasing short-term hype?"
+          }
+        ]
+      }
+    ]
+}
+  

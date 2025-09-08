@@ -1,0 +1,34 @@
+{
+    "session_id": "debate_prep_22335",
+    "assignment_id": "netflix_strategy",
+    "timestamp": "2024-04-02T14:30:00Z",
+    "student_id": "mm3321@columbia.edu",
+    "student_name": "Maria Martinez",
+    "messages": [
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "text": "Maria, you’re analyzing Netflix’s content approach. Why might Netflix double down on original content versus leaning more on licensed material?"
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "text": "Originals build exclusivity. If viewers can only find a show on Netflix, it reduces churn. Licensed shows often leave when contracts expire, creating instability."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "text": "Good point. But licensed titles like Friends or The Office once drove huge engagement. Without those, Netflix risks losing casual viewers. How would they mitigate that?"
+          }
+        ]
+      }
+    ]
+}
+  

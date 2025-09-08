@@ -1,0 +1,34 @@
+{
+    "session_id": "debate_prep_22337",
+    "assignment_id": "netflix_strategy",
+    "timestamp": "2024-04-04T16:45:00Z",
+    "student_id": "sp4050@columbia.edu",
+    "student_name": "Sungjoon Park",
+    "messages": [
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "text": "Sungjoon, should Netflix’s strategy lean on blockbuster originals or diversify with a mix of licensed classics? What’s your argument?"
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "text": "I’d argue Netflix must keep both. Originals drive headlines and prestige, but licensed content provides the comfort shows people binge daily. Without that balance, churn rises."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "text": "Interesting — so you’re suggesting originals attract new subscribers, but licensed titles retain them. How would you allocate budget between the two?"
+          }
+        ]
+      }
+    ]
+}
+  
